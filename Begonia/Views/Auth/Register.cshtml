@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "注册";
+}
+
+<form asp-controller="AuthServer" asp-action="Register">
+    <div class="input-group">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="label-username">用户名</span>
+        </div>
+        <input class="i"/>
+    </div>
+    <div class="mb-3">
+        <label for="username" class="form-label">用户名</label>
+        <input class="form-control" id="username" 
+               type="text" name="username" 
+               placeholder="用户名" required="required" />
+    </div>
+    
+    <div class="mb-3">
+        <label for="username" class="form-label">用户名</label>
+        <input class="form-control" id="username" 
+               type="text" name="username" 
+               placeholder="用户名" required="required" />
+    </div>
+    
+    <div class="mb-3">
+        <label for="username" class="form-label">用户名</label>
+        <input class="form-control" id="username" 
+               type="text" name="username" 
+               placeholder="用户名" required="required" />
+        <div id="password-hint" class="form-text">密码必须是</div>
+    </div>
+    <div class="mb-3 form-check">
+        <label class="form-check-label" for="exampleCheck1">Check me out</label>
+    </div>
+    
+    <button type="submit" class="btn btn-primary">注册</button>
+    <button asp-controller="Auth" asp-action="Login" class="btn">已有帐号，去登录</button>
+</form>

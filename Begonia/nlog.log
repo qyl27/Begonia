@@ -1,0 +1,97 @@
+Info Message Template Auto Format enabled
+Info Loading assembly: NLog.Web.AspNetCore
+Info Adding target FileTarget(Name=File)
+Info Adding target FileTarget(Name=DebugFile)
+Info Adding target ColoredConsoleTarget(Name=Console)
+Info Validating config: TargetNames=Console, DebugFile, File, ConfigItems=64, FilePath=D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\NLog.config
+Info FileTarget(Name=DebugFile): Deleting old archive file: 'D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\/logs/debug.log'.
+Info Validating config: TargetNames=Console, DebugFile, File, ConfigItems=64, FilePath=D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\NLog.config
+Info Shutdown() called. Logger closing...
+Info Closing old configuration.
+Info Logger has been closed down.
+Info Shutdown() called. Logger closing...
+Info Logger has been closed down.
+Info Message Template Auto Format enabled
+Info Loading assembly: NLog.Web.AspNetCore
+Info Adding target FileTarget(Name=File)
+Info Adding target FileTarget(Name=DebugFile)
+Info Adding target ColoredConsoleTarget(Name=Console)
+Info Validating config: TargetNames=Console, DebugFile, File, ConfigItems=64, FilePath=D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\NLog.config
+Info FileTarget(Name=DebugFile): Deleting old archive file: 'D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\/logs/debug.log'.
+Info Validating config: TargetNames=Console, DebugFile, File, ConfigItems=64, FilePath=D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\NLog.config
+Info Shutdown() called. Logger closing...
+Info Closing old configuration.
+Info Logger has been closed down.
+Info Shutdown() called. Logger closing...
+Info Logger has been closed down.
+Info Message Template Auto Format enabled
+Info Loading assembly: NLog.Web.AspNetCore
+Info Adding target FileTarget(Name=File)
+Info Adding target FileTarget(Name=DebugFile)
+Info Adding target ColoredConsoleTarget(Name=Console)
+Info Validating config: TargetNames=Console, DebugFile, File, ConfigItems=64, FilePath=D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\NLog.config
+Info FileTarget(Name=DebugFile): Deleting old archive file: 'D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\/logs/debug.log'.
+Info Validating config: TargetNames=Console, DebugFile, File, ConfigItems=64, FilePath=D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\NLog.config
+Info Shutdown() called. Logger closing...
+Info Closing old configuration.
+Info Logger has been closed down.
+Info Shutdown() called. Logger closing...
+Info Logger has been closed down.
+Info Message Template Auto Format enabled
+Info Loading assembly: NLog.Web.AspNetCore
+Info Adding target FileTarget(Name=File)
+Info Adding target FileTarget(Name=DebugFile)
+Info Adding target ColoredConsoleTarget(Name=Console)
+Info Validating config: TargetNames=Console, DebugFile, File, ConfigItems=64, FilePath=D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\NLog.config
+Info FileTarget(Name=DebugFile): Deleting old archive file: 'D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\/logs/debug.log'.
+Info Validating config: TargetNames=Console, DebugFile, File, ConfigItems=64, FilePath=D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\NLog.config
+Info Shutdown() called. Logger closing...
+Info Closing old configuration.
+Info Logger has been closed down.
+Info Shutdown() called. Logger closing...
+Info Logger has been closed down.
+Info Message Template Auto Format enabled
+Info Loading assembly: NLog.Web.AspNetCore
+Info Adding target FileTarget(Name=File)
+Info Adding target FileTarget(Name=DebugFile)
+Info Adding target ColoredConsoleTarget(Name=Console)
+Info Validating config: TargetNames=Console, DebugFile, File, ConfigItems=64, FilePath=D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\NLog.config
+Info FileTarget(Name=DebugFile): Deleting old archive file: 'D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\/logs/debug.log'.
+Info Validating config: TargetNames=Console, DebugFile, File, ConfigItems=64, FilePath=D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\NLog.config
+Info Shutdown() called. Logger closing...
+Info Closing old configuration.
+Info Logger has been closed down.
+Info Shutdown() called. Logger closing...
+Info Logger has been closed down.
+Info Message Template Auto Format enabled
+Info Loading assembly: NLog.Web.AspNetCore
+Info Adding target FileTarget(Name=File)
+Info Adding target FileTarget(Name=DebugFile)
+Info Adding target ColoredConsoleTarget(Name=Console)
+Info Validating config: TargetNames=Console, DebugFile, File, ConfigItems=64, FilePath=D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\NLog.config
+Info Message Template Auto Format enabled
+Info Loading assembly: NLog.Web.AspNetCore
+Info Adding target FileTarget(Name=File)
+Info Adding target FileTarget(Name=DebugFile)
+Info Adding target ColoredConsoleTarget(Name=Console)
+Info Validating config: TargetNames=Console, DebugFile, File, ConfigItems=64, FilePath=D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\NLog.config
+Info FileTarget(Name=DebugFile): Deleting old archive file: 'D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\/logs/debug.log'.
+Info Validating config: TargetNames=Console, DebugFile, File, ConfigItems=64, FilePath=D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\NLog.config
+Info Shutdown() called. Logger closing...
+Info Closing old configuration.
+Info Logger has been closed down.
+Info Shutdown() called. Logger closing...
+Info Logger has been closed down.
+Info Message Template Auto Format enabled
+Info Loading assembly: NLog.Web.AspNetCore
+Info Adding target FileTarget(Name=File)
+Info Adding target FileTarget(Name=DebugFile)
+Info Adding target ColoredConsoleTarget(Name=Console)
+Info Validating config: TargetNames=Console, DebugFile, File, ConfigItems=64, FilePath=D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\NLog.config
+Info FileTarget(Name=DebugFile): Deleting old archive file: 'D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\/logs/debug.log'.
+Info Validating config: TargetNames=Console, DebugFile, File, ConfigItems=64, FilePath=D:\NewProjects\Begonia\Begonia\bin\Debug\net6.0\NLog.config
+Info Shutdown() called. Logger closing...
+Info Closing old configuration.
+Info Logger has been closed down.
+Info Shutdown() called. Logger closing...
+Info Logger has been closed down.
